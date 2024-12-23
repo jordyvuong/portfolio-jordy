@@ -17,7 +17,7 @@ const works = [
       projectLink: 'https://github.com/jordyvuong/gestion_user_grp_pme'
     },
     {
-      imgSrc: 'images/project-2.jpg',
+      imgSrc: 'images/vparrot.png',
       title: 'Site vitrine pour garage',
       tags: ['Developpement', 'Web-design'],
       projectLink: 'https://github.com/jordyvuong/projet_garage'
