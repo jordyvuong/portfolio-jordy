@@ -11,37 +11,37 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: '/images/bash.png',
+      imgSrc: 'images/bash.png',
       title: 'Gestion automatisée des utilisateurs et groupes pour PME',
       tags: ['BASH', 'Developpement'],
       projectLink: 'https://github.com/jordyvuong/gestion_user_grp_pme'
     },
     {
-      imgSrc: '/images/project-2.jpg',
+      imgSrc: 'images/project-2.jpg',
       title: 'Site vitrine pour garage',
       tags: ['Developpement', 'Web-design'],
       projectLink: 'https://github.com/jordyvuong/projet_garage'
     },
     {
-      imgSrc: '/images/memory-game.jpeg',
+      imgSrc: 'images/memory-game.jpeg',
       title: 'Memory game',
       tags: ['Developpement', 'API'],
       projectLink: 'https://github.com/jordyvuong/jeu-de-la-memoire'
     },
     {
-      imgSrc: '/images/loading.jpg',
+      imgSrc: 'images/loading.jpg',
       title: 'Projet en cours...',
       tags: ['Web-design', 'Developpement'],
       projectLink: 'https://github.com/jordyvuong'
     },
     {
-      imgSrc: '/images/loading.jpg',
+      imgSrc: 'images/loading.jpg',
       title: 'Projet en cours...',
       tags: ['eCommerce', 'Developpement'],
       projectLink: 'https://github.com/jordyvuong'
     },
     {
-      imgSrc: '/images/loading.jpg',
+      imgSrc: 'images/loading.jpg',
       title: 'Projet en cours...',
       tags: ['Web-design', 'Developpement'],
       projectLink: 'https://github.com/jordyvuong'
