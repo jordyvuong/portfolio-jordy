@@ -50,10 +50,10 @@ const reviews = [
       company: 'Learner Experience Design & Hosting'
     },
     {
-      content: 'Professional work! Delivered on time, with a polished design and smooth user experience. Top-notch developer.',
-      name: 'Ava Thompson',
-      imgSrc: 'images/people-5.jpg',
-      company: 'TechMosaic'
+      content: 'Sa capacité à apprendre rapidement et à appliquer ses connaissances dans des projets concrets est remarquable. Jordy fait preuve d\’un professionnalisme exemplaire et d\’une rigueur qui le démarquent. Son sérieux et sa capacité à s\’adapter aux besoins des projets le rendent particulièrement fiable. Je suis convaincu que Jordy a un avenir prometteur dans le domaine du développement, et je le recommande sans hésitation pour toute collaboration ou mission.',
+      name: 'Nghia Bui',
+      imgSrc: 'images/nghia-bui.jpeg',
+      company: 'Timescope'
     },
     {
       content: 'Excellent project execution! High-quality code, responsive design, and exceptional problem-solving skills.',
