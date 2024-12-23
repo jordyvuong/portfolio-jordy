@@ -32,7 +32,7 @@ const skillItem = [
       desc: 'Web Server'
     },
     {
-      imgSrc: 'images/symfony_white.svg',
+      imgSrc: 'images/symfony_dynamic_02.svg',
       label: 'Symfony',
       desc: 'PHP Framework'
     },
