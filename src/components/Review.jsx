@@ -38,7 +38,7 @@ const reviews = [
       company: 'Fnac'
     },
     {
-      content: '[...] Jordy est un étudiant plein de potentiel et surtout il a une grande qualité : il est curieux. La curiosité est une très bonne "maladie" ; car cela nous amène à aller en dehors de nos domaines de prédilection. Et c\'est exactement ce qu\'a fait Jordy, il est allé plus loin tout seul en s\'auto-formant. Une très belle récompense pour moi [•••]. Merci à toi Jordy d\'être un étudiant modèle et surtout, et j\'en suis sûre, un professionnel autodidacte qui ira loin et surtout qui s\'en donnera les moyens.',
+      content: '[•••] Jordy est un étudiant plein de potentiel et surtout il a une grande qualité : il est curieux. La curiosité est une très bonne "maladie" ; car cela nous amène à aller en dehors de nos domaines de prédilection. Et c\'est exactement ce qu\'a fait Jordy, il est allé plus loin tout seul en s\'auto-formant. Une très belle récompense pour moi [•••]. Merci à toi Jordy d\'être un étudiant modèle et surtout, et j\'en suis sûre, un professionnel autodidacte qui ira loin et surtout qui s\'en donnera les moyens.',
       name: 'Christine Vaillant',
       imgSrc: 'images/vaillant-christine.png',
       company: 'LearnMedia'
@@ -52,7 +52,7 @@ const reviews = [
     {
       content: 'Sa capacité à apprendre rapidement et à appliquer ses connaissances dans des projets concrets est remarquable. Jordy fait preuve d\’un professionnalisme exemplaire et d\’une rigueur qui le démarquent. Son sérieux et sa capacité à s\’adapter aux besoins des projets le rendent particulièrement fiable. Je suis convaincu que Jordy a un avenir prometteur dans le domaine du développement, et je le recommande sans hésitation pour toute collaboration ou mission.',
       name: 'Nghia Bui',
-      imgSrc: 'images/nghia-bui.jpeg',
+      imgSrc: 'images/nghia-bui.png',
       company: 'Timescope'
     },
     {
