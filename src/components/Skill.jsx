@@ -12,9 +12,9 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-      imgSrc: 'images/figma.svg',
-      label: 'Figma',
-      desc: 'Design tool'
+      imgSrc: 'images/html5.svg',
+      label: 'HTML5',
+      desc: 'Structure'
     },
     {
       imgSrc: 'images/css3.svg',
@@ -32,7 +32,7 @@ const skillItem = [
       desc: 'Web Server'
     },
     {
-      imgSrc: 'images/symfony.svg',
+      imgSrc: 'images/symfony_white.svg',
       label: 'Symfony',
       desc: 'PHP Framework'
     },
