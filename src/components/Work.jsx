@@ -19,7 +19,7 @@ const works = [
     {
       imgSrc: 'images/vparrot.png',
       title: 'Site vitrine pour garage',
-      tags: ['Developpement', 'Web-design'],
+      tags: ['Developpement', 'Web-design', 'Symfony'],
       projectLink: 'https://github.com/jordyvuong/projet_garage'
     },
     {
