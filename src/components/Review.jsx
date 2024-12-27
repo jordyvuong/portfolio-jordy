@@ -55,12 +55,6 @@ const reviews = [
       imgSrc: 'images/nghia-bui.png',
       company: 'Timescope'
     },
-    {
-      content: 'Excellent project execution! High-quality code, responsive design, and exceptional problem-solving skills.',
-      name: 'Jonathan',
-      imgSrc: 'images/people-6.jpg',
-      company: 'Skyline Digital'
-    }
   ];
 
 
