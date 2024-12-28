@@ -28,7 +28,7 @@ const Header = () => {
                 href="https://jordyvuong.github.io/portfolio-jordy/" 
                 className="logo"
                 >
-                    <img src="images/logo.svg"
+                    <img src="images/logo-test.svg"
                     width={40}
                     height={40} 
                     alt="Jordy VUONG" 
